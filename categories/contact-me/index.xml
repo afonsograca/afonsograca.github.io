@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact Me on Afonso Graça</title>
+    <link>http://afonsograca.com/categories/contact-me/</link>
+    <description>Recent content in Contact Me on Afonso Graça</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 25 May 2020 11:41:04 +0100</lastBuildDate>
+    
+	<atom:link href="http://afonsograca.com/categories/contact-me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://afonsograca.com/contact/</link>
+      <pubDate>Mon, 25 May 2020 11:41:04 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/contact/</guid>
+      <description>The best way to get in touch with me is probably through Linkedin. If that doesn&amp;rsquo;t work for you, you can reach out via email.
+Cheers!</description>
+    </item>
+    
+  </channel>
+</rss>

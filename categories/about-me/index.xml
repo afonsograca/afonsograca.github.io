@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Afonso Graça</title>
-    <link>http://afonsograca.com/</link>
-    <description>Recent content on Afonso Graça</description>
+    <title>About Me on Afonso Graça</title>
+    <link>http://afonsograca.com/categories/about-me/</link>
+    <description>Recent content in About Me on Afonso Graça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 25 May 2020 15:19:43 +0100</lastBuildDate>
     
-	<atom:link href="http://afonsograca.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://afonsograca.com/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://afonsograca.com/about/</guid>
       <description>I&amp;rsquo;ve been a software developer since 2013. Starting out as a web developer, but quickly transitioned to iOS development as soon as the opportunity came along. Although Objective-C is something I still need to deal with from time to time, Swift has been my focus for some years now.
 I&amp;rsquo;m a UX enthusiast. There is a sense of joy when you build something that works just as it&amp;rsquo;s expected, when you bring delight to your users.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://afonsograca.com/contact/</link>
-      <pubDate>Mon, 25 May 2020 11:41:04 +0100</pubDate>
-      
-      <guid>http://afonsograca.com/contact/</guid>
-      <description>The best way to get in touch with me is probably through Linkedin. If that doesn&amp;rsquo;t work for you, you can reach out via email.
-Cheers!</description>
     </item>
     
   </channel>

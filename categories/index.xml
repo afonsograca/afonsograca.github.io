@@ -6,9 +6,46 @@
     <description>Recent content in Categories on Afonso Graça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Mon, 25 May 2020 15:19:43 +0100</lastBuildDate>
     
 	<atom:link href="http://afonsograca.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://afonsograca.com/categories/about/</link>
+      <pubDate>Mon, 25 May 2020 15:19:43 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://afonsograca.com/categories/about-me/</link>
+      <pubDate>Mon, 25 May 2020 15:19:43 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/categories/about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://afonsograca.com/categories/contact/</link>
+      <pubDate>Mon, 25 May 2020 11:41:04 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/categories/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://afonsograca.com/categories/contact-me/</link>
+      <pubDate>Mon, 25 May 2020 11:41:04 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/categories/contact-me/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
