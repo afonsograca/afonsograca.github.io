@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Afonso Graça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 May 2020 15:19:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 17:14:57 +0100</lastBuildDate>
     
 	<atom:link href="http://afonsograca.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Speaking</title>
+      <link>http://afonsograca.com/categories/speaking/</link>
+      <pubDate>Thu, 28 May 2020 17:14:57 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/categories/speaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://afonsograca.com/categories/talks/</link>
+      <pubDate>Thu, 28 May 2020 17:14:57 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/categories/talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>

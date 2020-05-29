@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://afonsograca.com/categories/</loc>
+    <lastmod>2020-05-28T17:14:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afonsograca.com/categories/speaking/</loc>
+    <lastmod>2020-05-28T17:14:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afonsograca.com/speaking/</loc>
+    <lastmod>2020-05-28T17:14:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://afonsograca.com/categories/talks/</loc>
+    <lastmod>2020-05-28T17:14:57+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://afonsograca.com/</loc>
     <lastmod>2020-05-26T20:39:16+01:00</lastmod>
   </url>
@@ -19,11 +39,6 @@
   
   <url>
     <loc>http://afonsograca.com/categories/about-me/</loc>
-    <lastmod>2020-05-25T15:19:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://afonsograca.com/categories/</loc>
     <lastmod>2020-05-25T15:19:43+01:00</lastmod>
   </url>
   
