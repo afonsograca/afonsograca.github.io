@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Afonso Graça</title>
+    <title>Afonso Graça — Software Developer on Afonso Graça</title>
     <link>http://afonsograca.com/</link>
-    <description>Recent content on Afonso Graça</description>
+    <description>Recent content in Afonso Graça — Software Developer on Afonso Graça</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 26 May 2020 20:39:16 +0100</lastBuildDate>
     
 	<atom:link href="http://afonsograca.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://afonsograca.com/cv/</link>
+      <pubDate>Sun, 31 May 2020 15:04:14 +0100</pubDate>
+      
+      <guid>http://afonsograca.com/cv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Speaking</title>
